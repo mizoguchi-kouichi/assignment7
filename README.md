@@ -1,5 +1,5 @@
 # Dockerのハンズオンで出来た事  
- - このREAD.mdでは、課題⑦のハンズオン出来た事をまとめております。
+ - このREADME.mdでは、課題⑦のハンズオン出来た事をまとめております。
  - 今回使用している写真は、2回目に行ったハンズオンの内容を使用しています。  
    今回参考にしたハンズオンは↓のURLになります。  
    https://github.com/raisetech-for-student/docker-mysql-hands-on
